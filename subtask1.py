@@ -14,3 +14,4 @@ else:
         n=n+1
     a=s/n
 print("Count: ",n,"\nSum: ",s,"\nMinimum: ",m,"\nMean: ",a)
+# it looks like I learned how to use git today
